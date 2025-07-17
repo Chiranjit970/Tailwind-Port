@@ -1,1 +1,1 @@
-# Tailwind-Port
+# I built a fully responsive personal portfolio website using only HTML and Tailwind CSS, focusing on clean design and functionality to reflect my growth as a beginner front-end developer. The project helped me strengthen my skills in semantic HTML, utility-first styling, and working with VS Code and GitHub for version control and deployment.
